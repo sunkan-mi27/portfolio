@@ -68,13 +68,20 @@ export const projects = [
   },
   {
     id: 5,
-    title: "E-Commerce Store",
+    title: "LordTaylor Cargo",
     description:
-      "A full-featured storefront with cart management, Paystack payments, and an order management dashboard.",
+      "A production logistic platform for a real Lagos-based freight business - customer booking flow, live shipment tracking, an admin operations dashboard, and Flutterwave payment integration with webhook-verified transactions and real-time notifications.",
     category: "Full Stack",
-    tags: ["React", "Node.js", "MongoDB", "Paystack"],
-    github: "#",
-    live: "#",
+    tags: [
+      "React",
+      "Node.js",
+      "Express",
+      "PostgreSQL",
+      "Prisma",
+      "Flutterwave",
+    ],
+    github: "https://github.com/sunkan-mi27/LordTaylor-Cargo",
+    live: "lord-taylor-cargo.vercel.app",
     featured: true,
   },
   {
