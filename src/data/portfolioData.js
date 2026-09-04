@@ -70,7 +70,7 @@ export const projects = [
     id: 5,
     title: "LordTaylor Cargo",
     description:
-      "A production logistic platform for a real Lagos-based freight business - customer booking flow, live shipment tracking, an admin operations dashboard, and Flutterwave payment integration with webhook-verified transactions and real-time notifications.",
+      "🛳 A production logistic platform for a real Lagos-based freight business - customer booking flow, live shipment tracking, an admin operations dashboard, and Flutterwave payment integration with webhook-verified transactions and real-time notifications.",
     category: "Full Stack",
     tags: [
       "React",
@@ -81,7 +81,7 @@ export const projects = [
       "Flutterwave",
     ],
     github: "https://github.com/sunkan-mi27/LordTaylor-Cargo",
-    live: "lord-taylor-cargo.vercel.app",
+    live: "https://lord-taylor-cargo.vercel.app",
     featured: true,
   },
   {
