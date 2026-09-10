@@ -86,13 +86,14 @@ export const projects = [
   },
   {
     id: 6,
-    title: "Weather Dashboard",
+    title: "ROOM - Visual Workspace Planner",
     description:
-      "A responsive weather app with location detection, 7-day forecast, and animated weather condition icons.",
+      "📐 A spatial-design workspace for creating, arranging and evaluating room layouts with interactive planning tools and spatial intelligence...What makes it standout: Interactive room planning • Drag, resize & rotate furniture • A* circulation analysis • Clearance heatmaps & bottleneck detection • Layout studies & comparison • Walk Around mode • Architectural presentation mode",
     category: "Frontend",
-    tags: ["JavaScript", "CSS", "OpenWeather API"],
-    github: "https://github.com/sunkan-mi27.github.io/weather-dashboard",
-    live: "https://sunkan-mi27.github.io/weather-dashboard/",
+    tags: ["Next.js", "TypeScript", "Zustand", "React Konva", "Tailwind CSS"],
+    github:
+      "https://github.com/sunkan-mi27.github.io/visual-architecture-studio",
+    live: "visual-architecture-studio-14puyokwd-sunkanmi.vercel.app",
     featured: true,
   },
 ];
