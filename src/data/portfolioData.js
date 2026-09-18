@@ -7,12 +7,12 @@ export const personalInfo = {
   available: true,
   bio: [
     "I'm a full-stack web developer with a background in embroidery and textile design. That creative foundation shapes how I think about interfaces — precision, pattern, and intentionality in every detail.",
-    "I completed a full-stack web development programme in 2024 and I'm currently studying Architecture at Caleb University. I build things that are both structurally sound and beautifully crafted.",
+    "I completed a full-stack web development programme in 2026 and I'm currently studying Architecture at Caleb University. I build things that are both structurally sound and beautifully crafted.",
   ],
   stats: [
     { label: "Projects Built", value: "10+" },
     { label: "Technologies", value: "12+" },
-    { label: "Year Started", value: "2023" },
+    { label: "Year Started", value: "2024" },
   ],
   socials: {
     github: "https://github.com/sunkan-mi27",
