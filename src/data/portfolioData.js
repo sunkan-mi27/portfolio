@@ -37,7 +37,7 @@ export const projects = [
     id: 2,
     title: "VendorFlow",
     description:
-      "Order tracking dashboard for small vendors selling on WhatsApp, Instagram, TikTok, and Twitter with live Paystack payments, per-vendor data isolation and platform aware customer follow up.",
+      "📲 Order tracking dashboard for small vendors selling on WhatsApp, Instagram, TikTok, and Twitter with live Paystack payments, per-vendor data isolation and platform aware customer follow up.",
     category: "Full Stack",
     tags: ["React", "Node.js", "Express", "PostgresSQL", "Prisma", "Paystack"],
     github: "https://github.com/sunkan-mi27/vendorflow-frontend",
