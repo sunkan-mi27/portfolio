@@ -35,13 +35,13 @@ export const projects = [
   },
   {
     id: 2,
-    title: "Portfolio CMS",
+    title: "VendorFlow",
     description:
-      "A headless CMS and portfolio builder with markdown support, image optimisation, and a clean admin dashboard.",
+      "Order tracking dashboard for small vendors selling on WhatsApp, Instagram, TikTok, and Twitter with live Paystack payments, per-vendor data isolation and platform aware customer follow up.",
     category: "Full Stack",
-    tags: ["React", "Express", "MongoDB", "Cloudinary"],
-    github: "#",
-    live: "#",
+    tags: ["React", "Node.js", "Express", "PostgresSQL", "Prisma", "Paystack"],
+    github: "https://github.com/sunkan-mi27/vendorflow-frontend",
+    live: "https://vendorflowapp.vercel.app",
     featured: true,
   },
   {
