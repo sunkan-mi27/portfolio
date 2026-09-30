@@ -46,14 +46,14 @@ export const projects = [
   },
   {
     id: 3,
-    title: "UI Component Library",
+    title: "Onas Cutz",
     description:
-      "A custom React component library with 30+ components, dark/light mode, and full accessibility support.",
+      "✂ A cinematic, mobile website built for a local hair salon, featuring real work, services, WhatsApp booking, location, reviews and a premium visual experience.",
     category: "Frontend",
-    tags: ["React", "CSS", "Storybook"],
-    github: "#",
-    live: "#",
-    featured: false,
+    tags: ["React", "CSS", "Vite", "Framer Motion"],
+    github: "https://github.com/sunkan-mi27/onas-cutz",
+    live: "https://onas-cutz.vercel.app",
+    featured: true,
   },
   {
     id: 4,
