@@ -13,8 +13,8 @@ export default function Skills() {
           My Tech <span className="accent-text">Stack</span>
         </h2>
         <p className="section-sub">
-          Technologies I work with regularly — and the tools that keep my
-          workflow tight.
+          Technologies I work with regularly and the tools that keep my workflow
+          tight.
         </p>
       </div>
 

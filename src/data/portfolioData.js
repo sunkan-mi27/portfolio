@@ -2,11 +2,11 @@ export const personalInfo = {
   name: "Sunkanmi",
   role: "Full Stack Web Developer",
   tagline:
-    "I build clean, fast, and accessible web experiences — from pixel-perfect UI to solid backend systems.",
+    "I build clean, fast, and accessible web experiences from pixel-perfect UI to solid backend systems.",
   email: "oiolasunkanmi27@gmail.com",
   available: true,
   bio: [
-    "I'm a full-stack web developer with a background in embroidery and textile design. That creative foundation shapes how I think about interfaces — precision, pattern, and intentionality in every detail.",
+    "I'm a full-stack web developer with a background in embroidery and textile design. That creative foundation shapes how I think about interfaces precision, pattern, and intentionality in every detail.",
     "I completed a full-stack web development programme in 2026 and I'm currently studying Architecture at Caleb University. I build things that are both structurally sound and beautifully crafted.",
   ],
   stats: [
@@ -37,7 +37,7 @@ export const projects = [
     id: 2,
     title: "VendorFlow",
     description:
-      "📲 Order tracking dashboard for small vendors selling on WhatsApp, Instagram, TikTok, and Twitter with live Paystack payments, per-vendor data isolation and platform aware customer follow up.",
+      "📲 Order tracking dashboard for small vendors selling on WhatsApp, Instagram, TikTok, and Twitter with live Paystack payments, per vendor data isolation and platform aware customer follow up.",
     category: "Full Stack",
     tags: ["React", "Node.js", "Express", "PostgresSQL", "Prisma", "Paystack"],
     github: "https://github.com/sunkan-mi27/vendorflow-frontend",
@@ -59,7 +59,7 @@ export const projects = [
     id: 4,
     title: "REST API Boilerplate",
     description:
-      "Production-ready Express API with JWT auth, rate limiting, input validation, and PostgreSQL integration.",
+      "Production ready Express API with JWT auth, rate limiting, input validation, and PostgreSQL integration.",
     category: "Backend",
     tags: ["Node.js", "Express", "PostgreSQL", "JWT"],
     github: "https://github.com/sunkan-mi27/monogram-api",
@@ -70,7 +70,7 @@ export const projects = [
     id: 5,
     title: "LordTaylor Cargo",
     description:
-      "🛳 A production logistic platform for a real Lagos-based freight business - customer booking flow, live shipment tracking, an admin operations dashboard, and Flutterwave payment integration with webhook-verified transactions and real-time notifications.",
+      "🛳 A production logistic platform for a real Lagos based freight business customer booking flow, live shipment tracking, an admin operations dashboard, and Flutterwave payment integration with webhook verified transactions and real time notifications.",
     category: "Full Stack",
     tags: [
       "React",
@@ -86,9 +86,9 @@ export const projects = [
   },
   {
     id: 6,
-    title: "ROOM - Visual Workspace Planner",
+    title: "ROOM Visual Workspace Planner",
     description:
-      "📐 A spatial-design workspace for creating, arranging and evaluating room layouts with interactive planning tools and spatial intelligence...What makes it standout: Interactive room planning • Drag, resize & rotate furniture • A* circulation analysis • Clearance heatmaps & bottleneck detection • Layout studies & comparison • Walk Around mode • Architectural presentation mode",
+      "📐 A spatial design workspace for creating, arranging and evaluating room layouts with interactive planning tools and spatial intelligence...What makes it standout: Interactive room planning • Drag, resize & rotate furniture • A* circulation analysis • Clearance heatmaps & bottleneck detection • Layout studies & comparison • Walk Around mode • Architectural presentation mode",
     category: "Frontend",
     tags: ["Next.js", "TypeScript", "Zustand", "React Konva", "Tailwind CSS"],
     github: "https://github.com/sunkan-mi27/visual-architecture-studio",

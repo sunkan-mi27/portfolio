@@ -20,7 +20,7 @@ export default function Projects() {
           Things I've <span className="accent-text">Built</span>
         </h2>
         <p className="section-sub">
-          A selection of work across different domains — from full-stack apps to
+          A selection of work across different domains from full-stack apps to
           frontend experiments.
         </p>
 
